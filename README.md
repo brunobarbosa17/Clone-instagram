@@ -1,2 +1,5 @@
-# Clone-instagram
-Clone da tela do Instagram(versão desatualizada)
+#Clone da Tela do Instagram (desatualizada)
+
+##A tela sofreu algumas alterações, pretendo colocar a versão atualizada em breve para comparação
+
+###Feito por: Bruno Barbosa
